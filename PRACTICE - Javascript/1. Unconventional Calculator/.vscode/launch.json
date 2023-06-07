@@ -1,0 +1,15 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Launch Chrome against localhost",
+            "url": "file:///C:/Users/major/Downloads/JavaScript%20-%20The%20Complete%20Guide%202020%20(Beginner%20+%20Advanced)/[TutsNode.com]%20-%20JavaScript%20-%20The%20Complete%20Guide%202020%20(Beginner%20+%20Advanced)/2.%20Basics%20Variables,%20Data%20Types,%20Operators%20&%20Functions/basics-01-starting-project/index.html",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}

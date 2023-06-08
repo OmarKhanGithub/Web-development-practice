@@ -1,0 +1,1 @@
+Pracice problems for NextJS modules
